@@ -44,14 +44,14 @@ This project is a simple blog application built with Django, demonstrating basic
    python manage.py runserver
    ```
 
-## Usage
+# Usage
 
 1. Access the application at `http://localhost:8000`
 2. Register a new user account or log in with existing credentials
 3. Create, edit, and delete blog posts
 4. Comment on blog posts
 
-## Contributing
+# Contributing
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature-name`)

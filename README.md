@@ -1,4 +1,4 @@
-```markdown
+
 # Django Blog Application
 
 This project is a simple blog application built with Django, demonstrating basic CRUD operations and user authentication.

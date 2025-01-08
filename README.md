@@ -51,13 +51,7 @@ This project is a simple blog application built with Django, demonstrating basic
 3. Create, edit, and delete blog posts
 4. Comment on blog posts
 
-# Contributing
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Create a new Pull Request
 
 
 ```

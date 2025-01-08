@@ -8,7 +8,7 @@ This project is a simple blog application built with Django, demonstrating basic
 - User registration and login
 - Create, read, update, and delete blog posts
 - Comment system for blog posts
-- Responsive design using Bootstrap
+
 
 ## Installation
 

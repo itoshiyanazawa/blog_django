@@ -59,7 +59,5 @@ This project is a simple blog application built with Django, demonstrating basic
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Create a new Pull Request
 
-## License
 
-This project is licensed under the MIT License.
 ```
